@@ -18,12 +18,8 @@
 | Testnet   |   4|  8GB | 150GB    |
 
 
-# 1) Auto_install script
-```python
-wget -O lav https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Lava_Network/lav && chmod +x lav && ./lav
-```
 
-# 2) Manual installation
+# 1) Manual installation
 
 ### Preparing the server
 
